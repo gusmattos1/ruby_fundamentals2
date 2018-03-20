@@ -1,4 +1,4 @@
-puts "\nExercise 3 \n\n"
+puts "\nExercise 6 \n\n"
 
 puts "Fahrenheit to Celsius conversor!\n\n"
 
